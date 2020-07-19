@@ -2,11 +2,15 @@
 
 My name is __Mael__, I'm French, I'm 17 years old, I'm a __young self-taught full-stack web developer__ (_PHP, JS, Symfony, React, HTML, CSS_). I'm mainly interested in development, server installation under _Linux_, their management and maintenance.
 
-I'm always learning new technology, new language, currently ___I'm discovering Golang___.
+🌱 I'm always learning new technology, new language, currently ___I'm discovering Golang___.
 
-I'm on some community such as _Grafikart.fr_, _StackOverflow_.
+💬 I'm on some community such as _Grafikart.fr_, _StackOverflow_.
 
-Today, I'm working on the development of a project to manage the versioning and editing of online files allowing to develop in different languages, all this without having an editor on your PC, just an internet connection.
+🔭 I’m currently working on. This one will put on sale some services (*some free, some paying*).
+
+The services will range from a simple ***discord bot***, to applications to manage some ***server side tasks (like automation for example)***, and all my **open source projects** will also be **available** on my shop for ***free***.
+
+This one is **not yet available**, stay tuned.
 
 You can find all my __open source projects__ on my __Github__.
 
