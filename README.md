@@ -6,7 +6,7 @@ My name is __Mael__, I'm French, I'm 17 years old, I'm a __young self-taught ful
 
 💬 I'm on some community such as _Grafikart.fr_, _StackOverflow_.
 
-🔭 I’m currently working on. This one will put on sale some services (*some free, some paying*).
+🔭 I’m currently working on my online shop. This one will put on sale some services (*some free, some paying*).
 
 The services will range from a simple ***discord bot***, to applications to manage some ***server side tasks (like automation for example)***, and all my **open source projects** will also be **available** on my shop for ***free***.
 
