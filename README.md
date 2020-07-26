@@ -4,7 +4,7 @@ My name is __Mael__, I'm French, I'm 17 years old, I'm a __young self-taught ful
 
 🌱 I'm always learning new technology, new language, currently ___I'm discovering Golang___.
 
-💬 I'm on some community such as _Grafikart.fr_, _StackOverflow_.
+💬 I'm on some community such as _Grafikart.fr_, _StackOverflow_, _NaN (Not a Name)_.
 
 🔭 I’m currently working on my online shop. This one will put on sale some services (*some free, some paying*).
 
