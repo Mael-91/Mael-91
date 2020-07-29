@@ -2,7 +2,7 @@
 
 My name is __Mael__, I'm French, I'm 17 years old, I'm a __young self-taught full-stack web developer__ (_PHP, JS, Symfony, React, HTML, CSS_). I'm mainly interested in development, server installation under _Linux_, their management and maintenance.
 
-🌱 I'm always learning new technology, new language, currently ___I'm discovering Golang___.
+🌱 I'm always learning new technology, new language, currently ___I'm discovering Golang and C___.
 
 💬 I'm on some community such as _Grafikart.fr_, _StackOverflow_, _NaN (Not a Name)_.
 
