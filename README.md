@@ -6,11 +6,9 @@ My name is __Mael__, I'm French, I'm 17 years old, I'm a __young self-taught ful
 
 💬 I'm on some community such as _Grafikart.fr_, _StackOverflow_, _NaN (Not a Name)_.
 
-🔭 I’m currently working on my online shop. This one will put on sale some services (*some free, some paying*).
+🔭 I’m currently working on a program written in Golang allowing the installation of several software from a configuration file.
 
-The services will range from a simple ***discord bot***, to applications to manage some ***server side tasks (like automation for example)***, and all my **open source projects** will also be **available** on my shop for ***free***.
-
-This one is **not yet available**, stay tuned.
+The Github directory is not yet available, but it will be made public soon.
 
 You can find all my __open source projects__ on my __Github__.
 
