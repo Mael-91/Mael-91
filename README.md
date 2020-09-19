@@ -6,7 +6,7 @@ My name is __Mael__, I'm French, I'm 17 years old, I'm a __young self-taught ful
 
 💬 I'm on some community such as _Grafikart.fr_, _StackOverflow_, _NaN (Not a Name)_.
 
-🔭 I’m currently working on a program written in Golang allowing the installation of several software from a configuration file.
+🔭 I'm currently working on different personal projects, such as a Symfony application to upload and download files from my raspberry, a website to host code snippets (like pastbin, or gist) it will have its own __CLI__ application to send its code snippets.
 
 The Github directory is not yet available, but it will be made public soon.
 
