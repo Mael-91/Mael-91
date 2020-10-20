@@ -12,8 +12,6 @@ The Github directory is not yet available, but it will be made public soon.
 
 You can find all my __open source projects__ on my __Github__.
 
-_[You can support my projects by buying me a pizza](https://www.buymeacoffee.com/Mael91) :pizza:_
-
 <!--
 **Mael-91/Mael-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+_[You can support my projects by buying me a pizza](https://www.buymeacoffee.com/Mael91) :pizza:_
 -->
